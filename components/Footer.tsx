@@ -109,7 +109,7 @@ export default function Footer() {
                 <div className="w-5 h-5 flex items-center justify-center mr-2">
                   <i className="ri-phone-line"></i>
                 </div>
-                +91 9726734893
+                +91 **********
               </li>
               <li className="flex items-center">
                 <div className="w-5 h-5 flex items-center justify-center mr-2">

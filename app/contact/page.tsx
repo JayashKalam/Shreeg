@@ -252,7 +252,7 @@ export default function Contact() {
                     <p className="text-gray-600 font-normal font-sans leading-relaxed">
                       +91 ***** *****
                       <br />
-                      Mon-Fri 8AM-8PM 
+                      Mon-Sun 8AM-8PM 
                     </p>
                   </div>
                 </div>
